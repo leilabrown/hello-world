@@ -1,3 +1,34 @@
-# hello-world
-I guess this is an intro to GitHub? I don't know though.
-Anyways, I dropped my computer last night and the screen partially shattered. Yeah, not great. It's still 100% functional, thank the universe. BUt it's a little annoying. I think that over time, I'll get used to it though. As far as problems go, this one is pretty 1st world. I'm just grateful that I have the resources to replace it when I need too (not anytime soon!). And it's a lesson to be more careful with my objects. It could've been worse. No more elctronics in the bathroom!!! Maybe if I stick with that for 6 months, I will buy myself a new computer. We'll see. I stopped myself from worrying too much about it in the moment, which was good of me. Thankfully, my computer screen doesn't define me. And my carlessness didn't hurt anyone. See ya!
+# Personal Website Starter Project
+
+This is a place for you to start building your first project -- your personal website!
+
+## Project Requirements
+Your project should:
+- Include one "Home" HTML page (that will be index.html) that's all about you!
+- Include one "Portfolio" HTML page that will showcase the projects you build in class.
+- Include a navigation bar that is included on all your website's pages.
+- Have all text, image(s), links, and/or videos on the page contained within appropriate HTML elements.
+
+## Extensions
+You can extend your project further by:
+- Creating a "Blog" HTML page that you can use to write blog posts with your readers!
+- Adding accessibility features to your website.
+
+# Starter Code File Overview
+
+Your full activity instructions are in HQ, but here's a little cheat-sheet of the files in this project:
+
+## ← index.html
+
+This is your homepage. It should be the first page that you work on.
+
+## ← portfolio.html
+This will be your portfolio page.  
+
+## ← script.js
+
+Later this week, you'll get fancy with the ability to add interactivity to your site with JavaScript. For now, there's no need to edit this file!
+
+## ← styles.css
+
+The file for your styles! You don't need to worry about editing this file right now. You'll learn more about CSS styling tomorrow. 
