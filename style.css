@@ -1,0 +1,40 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Cormorant Garamond', helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #e6f2ff;
+  padding: 20px;
+  style: flex;
+}
+
+h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: 3em;
+  color: #004a99;
+}
+
+h2 {
+  margin-top: 2em;
+  color: #004a99;
+  font-size: 2em;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 15em;
+}
+
+.restart {
+  color: #004a99;
+  font-family: 'Cormorant Garamond', serif;
+  font-type: bold;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
